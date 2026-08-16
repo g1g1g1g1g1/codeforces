@@ -1,2 +1,2 @@
 # Codeforces in Python
-Track my progress in codeforces. Trying to get better!
+Tracking my progress for codeforces. Trying to get better!
